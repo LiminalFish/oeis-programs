@@ -1,6 +1,6 @@
 # [A000045](https://oeis.org/A000045)
 
-The Fibonacci Sequence
+Fibonacci Sequence
 
 # Python
 
